@@ -1,8 +1,8 @@
-# Astra Vanguard — Gemini 3.7 (xHIGH) Web Game Benchmark
+# Astra Vanguard — Gemini 3.7 Flash Web Game Benchmark
 
-**A zero-dependency browser-game benchmark created with Gemini 3.7 (xHIGH) to evaluate an AI model's ability to turn a single detailed prompt into a complete, polished, playable web experience.**
+**A zero-dependency browser-game benchmark created with Gemini 3.7 Flash to evaluate an AI model's ability to turn a single detailed prompt into a complete, polished, playable web experience.**
 
-## [▶ Play Astra Vanguard Online](https://joji228.github.io/astra-vanguard-gemini-3-7-xhigh/)
+## [▶ Play Astra Vanguard Online](https://joji228.github.io/astra-vanguard-gemini-3-7-flash/)
 
 No download or installation is required. Open the link in a modern desktop browser and play immediately.
 
@@ -12,7 +12,7 @@ Astra Vanguard is an original 2D superhero action-platformer rendered entirely w
 
 | Field | Value |
 | --- | --- |
-| Model | Gemini 3.7 (xHIGH) |
+| Model | Gemini 3.7 Flash |
 | Environment | Antigravity desktop |
 | Generation date | August 18, 2026 |
 | Input | One detailed natural-language specification |
